@@ -53,10 +53,12 @@ Audio2Art/
 ## 📷 Screenshots
 
 ### 🎤 Voice Input Prompt
-<img src="assets/screenshot1.png" width="500"/>
+<img width="1920" height="1200" alt="250807_20h28m43s_screenshot" src="https://github.com/user-attachments/assets/10e7dc57-468d-4999-a79a-284fc12fd187" />
+
 
 ### 🖼️ Generated Artwork Output
-<img src="assets/screenshot2.png" width="500"/>
+<img width="1920" height="1200" alt="250807_20h53m34s_screenshot" src="https://github.com/user-attachments/assets/a09057ff-3fef-4322-9806-dff29e0a958c" />
+
 
 ---
 
