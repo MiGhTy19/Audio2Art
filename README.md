@@ -39,25 +39,45 @@ https://github.com/user-attachments/assets/d9fef787-7f15-4670-bb0b-30edda427010
 ## 📂 Project Structure
 
 Audio2Art/
+
 │
+
 ├── app/                         # All application code
+
 │   ├── App.py                   # Streamlit main app
+
 │   ├── ImageModel.py            # Image generation logic
+
 │   ├── audio2art.py             # Helper functions
+
 │
+
 ├── notebooks/                   # Jupyter notebooks
+
 │   └── Audio2Art.ipynb
+
 │
+
 ├── assets/                      # Media files
+
 │   ├── sample_audio/            # Sample audio files
+
 │   │   ├── sample_audio(1).wav
+
 │   │   └── sample_audio(2).wav
+
 │
+
 ├── docs/                        # Documentation
+
 │   └── project_report.md        # Detailed project description
+
 │
+
 ├── requirements.txt             # Dependencies
+
 ├── README.md                    # Project readme
+
 
 ---
 
