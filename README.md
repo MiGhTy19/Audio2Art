@@ -35,6 +35,7 @@ It combines cutting-edge speech recognition and image generation technologies to
 ## 📂 Project Structure
 
 Audio2Art/
+
 ├── app.py # Streamlit UI
 
 ├── ImageModel.py # Core logic: promptgen + text2image
