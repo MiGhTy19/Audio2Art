@@ -44,33 +44,33 @@ Audio2Art/
 
 ├── app/                         # All application code
 
-│   ├── App.py                   # Streamlit main app
+│     ├── App.py                   # Streamlit main app
 
-│   ├── ImageModel.py            # Image generation logic
+│     ├── ImageModel.py            # Image generation logic
 
-│   ├── audio2art.py             # Helper functions
+│     ├── audio2art.py             # Helper functions
 
 │
 
 ├── notebooks/                   # Jupyter notebooks
 
-│   └── Audio2Art.ipynb
+│     └── Audio2Art.ipynb
 
 │
 
 ├── assets/                      # Media files
 
-│   ├── sample_audio/            # Sample audio files
+│     ├── sample_audio/            # Sample audio files
 
-│   │   ├── sample_audio(1).wav
+│     │   ├── sample_audio(1).wav
 
-│   │   └── sample_audio(2).wav
+│     │   └── sample_audio(2).wav
 
 │
 
 ├── docs/                        # Documentation
 
-│   └── project_report.md        # Detailed project description
+│     └── project_report.md        # Detailed project description
 
 │
 
