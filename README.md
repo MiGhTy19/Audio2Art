@@ -36,10 +36,15 @@ It combines cutting-edge speech recognition and image generation technologies to
 
 Audio2Art/
 ├── app.py # Streamlit UI
+
 ├── ImageModel.py # Core logic: promptgen + text2image
+
 ├── requirements.txt # Project dependencies
+
 ├── assets/ # Screenshots & demo images
+
 ├── docs/ # Project report & documentation
+
 └── demo.mp4 # (Optional) Demo video
 
 ---
