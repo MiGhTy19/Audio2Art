@@ -50,6 +50,22 @@ Audio2Art/
 
 ---
 
+## ☁️ Google Colab Setup
+
+If you want to run Audio2Art on Google Colab for free GPU acceleration:
+
+  1. Open the Colab notebook (create your own).
+
+  2. Before running the first cell:
+      Go to Runtime → Change runtime type
+      Set Hardware accelerator to T4 GPU (Recommended for Stable Diffusion speed and compatibility).
+
+  3. Run the cells step-by-step.
+
+  4. At the end, a public link (via Localtunnel) will be provided to access the app in your browser.
+
+---
+
 ## 📷 Screenshots
 
 ### 🎤 Voice Input Prompt
