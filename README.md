@@ -76,18 +76,15 @@ Audio2Art/
   git clone https://github.com/MiGhTy19/Audio2Art.git
   cd Audio2Art
 ```
-2.Install dependencies
+2. **Install dependencies**
 ```
   pip install -r requirements.txt
 ```
-3.Run the app
+3. **Run the app**
 ```
   streamlit run app.py
 ```
-4.Access the app
+4. **Access the app**
   The terminal will show a local URL. Open it in your browser.
 
-📜 License
-
-This project is open-source under the MIT License.
 
