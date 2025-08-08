@@ -7,7 +7,11 @@ It combines cutting-edge speech recognition and image generation technologies to
 
 ## 🎥 Demo Video
 
-📺 [Watch on Google Drive](https://drive.google.com/your-video-link) *(Optional)*
+
+
+https://github.com/user-attachments/assets/d9fef787-7f15-4670-bb0b-30edda427010
+
+
 
 ---
 
